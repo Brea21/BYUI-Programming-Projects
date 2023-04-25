@@ -1,0 +1,6 @@
+{
+    "files.autoGuessEncoding": true,
+    "git.useEditorAsCommitInput": true,
+    "git.useCommitInputAsStashMessage": true,
+    "git.verboseCommit": true
+}

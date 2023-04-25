@@ -1,0 +1,6 @@
+print('hello world')
+msg1=input('purple')
+color1=input('purple')
+color2=input('Baby Blue')
+print('color1:"+  str(color2')
+print('Your favorite color is.capitalize () + ','color1 +color2')
